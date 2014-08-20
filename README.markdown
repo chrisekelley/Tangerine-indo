@@ -32,7 +32,7 @@ Couchapp
 
 Coffeescript compiler:
 
-    http://www.blog.bridgeutopiaweb.com/post/how-to-install-coffeescript-on-mac-os-x/
+    http://c.kat.pe/post/how-to-install-coffeescript-on-mac-os-x/
 
 Ruby
 
